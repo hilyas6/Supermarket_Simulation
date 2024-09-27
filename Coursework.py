@@ -1,10 +1,4 @@
 """
-Name: Hanzla Ilyas / 001060407
-This code was written by Hanzla Ilyas and Marco Gizzi.
-F1 by Marco Gizzi
-F2 by Hanzla Ilyas
-F3 By Both
-
 Please see the GUI.py file for more details on changes made in this code. Thank You!
 """
 

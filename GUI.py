@@ -1,4 +1,3 @@
-# All of the code on this file was written by Hanzla Ilyas.
 """
 I have removed the  simulation running code at the end of main coursework code.
 And replaced it with a new class called GUI which performs same tasks as last code.
