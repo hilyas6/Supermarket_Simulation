@@ -7,7 +7,7 @@ Another change i made in the main code was adding in a new function called stop 
 thread to stop the simulation.
 """
 import tkinter as tk
-from Coursework import *
+from BaseCode import *
 import os
 
 class GUI:
